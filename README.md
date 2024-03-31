@@ -16,7 +16,7 @@ pip install opencv-python mediapipe numpy comtypes pycaw
 ```
 
 
-##Usage
+## Usage
 To use this application, follow these steps:
 
 Ensure your webcam is connected and properly set up.
@@ -26,3 +26,8 @@ python volume.py
 ```
 
 Adjust the volume by moving your thumb and index finger closer together or further apart. The volume increases as the distance between these two fingers increases and decreases as the distance shortens.
+
+## Code in Action
+
+https://github.com/sushanmali50/volume-cntrl-cv2/assets/145068266/d712af21-4fb9-4f51-8177-f17b0973ff2f
+
